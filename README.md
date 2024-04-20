@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @geekhubshow
-- 👀 I’m interested in programming, history, philosophy, political economy, linguistics
-- 🌱 I’m currently learning C#, Python
+- 👀 I’m interested in programming, math, logic, linguistics, culturology
+- 🌱 I’m currently learning C#, Python, Rust
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me vk.com/marxisto
+- 📫 How to reach me vk.com/columbaoenas
 
 <!---
 geekhubshow/geekhubshow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
