@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @geekhubshow
+- 👋 Hi, I’m Columba
 - 👀 I’m interested in programming, math, logic, linguistics, culturology
 - 🌱 I’m currently learning C#, Python, Rust
 - 💞️ I’m looking to collaborate on ...
